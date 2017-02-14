@@ -5,3 +5,4 @@
 	Implemented the GUI using MFC and designed the classes and functions according to the recognition requirements. 
 
   
+   You need to incude the OpenCv library.
